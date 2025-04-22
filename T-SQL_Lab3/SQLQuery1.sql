@@ -1,0 +1,1 @@
+drop database AN_MyBase;
